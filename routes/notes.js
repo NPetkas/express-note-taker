@@ -38,8 +38,8 @@ router.delete("/:noteId", (req, res) => {
 
         writeToFile("./db/db.json", noteUpdate)
         res.json(`Note ${noteId} was updated`);
-       
       }
     });
 });
+
 module.exports = router;

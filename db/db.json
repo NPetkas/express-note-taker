@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "title": "Doctor Appointment",
+        "text": "12:30pm check-up",
+        "id": "7ee5e66d-f0d6-4e7f-9341-35fab1851899"
+    },
+    {
+        "title": "Baseball Game",
+        "text": "5:30pm Dodgers vs Padres game",
+        "id": "9b647614-4eec-469e-b9a9-747bc266596f"
+    },
+    {
+        "title": "Feed Pets",
+        "text": "Once in the morning and once at night",
+        "id": "5c90ad3d-d1e9-45d2-a61e-5202ebd17b16"
+    }
+]
