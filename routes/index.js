@@ -1,4 +1,4 @@
-// Setting up router
+// Router setup
 const router = require("express").Router();
 
 const notesRouter = require("./notes");
