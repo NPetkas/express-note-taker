@@ -66,12 +66,18 @@ To contribute:
 [def]: https://drive.google.com/file/d/1A2I6YKDeMp3DWgkEHOoyjRdarxlcfLiw/view
 
 
+
+[Link to App][def1]
+
+[def1]: https://fast-lake-69540-1e66298f7e50.herokuapp.com/
+
+
 ## Questions
 
 Contact information for any questions:
 
-Github Profile: [https://github.com/NPetkas](https://github.com/https://github.com/NPetkas)
+Github Profile: [https://github.com/NPetkas](https://github.com/NPetkas)
 
-Link to Repo: [https://github.com/NPetkas/express-note-taker](https://github.com/https://github.com/NPetkas/https://github.com/NPetkas/express-note-taker])
+Link to Repo: [https://github.com/NPetkas/express-note-taker](https://github.com/NPetkas/express-note-taker)
 
 Email: [nicopetkas@gmail.com](nicopetkas@gmail.com)
